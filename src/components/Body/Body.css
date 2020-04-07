@@ -1,0 +1,10 @@
+.body {
+    background-color: lightgrey;
+    padding: 20px;
+    height: 100vh;
+}
+
+.content {
+    display: flex;
+    justify-content: space-evenly;
+}
